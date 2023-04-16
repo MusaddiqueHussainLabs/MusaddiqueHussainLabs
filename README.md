@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MusaddiqueHussain Jahagirdar</h1>
 <h3 align="center">Building a Foundation in Data Science: Exploring the Role of a Junior Data Scientist</h3>
 
-<img align="right" alt="datascience" width="400" src="https://drive.google.com/file/d/1OeaKLarIzsnSmTS3T9R0d6k8LL5ec-c4/view"></img>
+<img align="right" alt="datascience" width="350" src="https://github.com/MusaddiqueHussainLabs/MusaddiqueHussainLabs/blob/main/GithubProfiletBody.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musaddiquehussainlabs&label=Profile%20views&color=0e75b6&style=flat" alt="musaddiquehussainlabs" /> </p>
 
