@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musaddiquehussainlabs&label=Profile%20views&color=0e75b6&style=flat" alt="musaddiquehussainlabs" /> </p>
 
-- 🔭 I’m currently working on [regressionml_delaney_solubility_v1](https://github.com/MusaddiqueHussainLabs/regressionml_delaney_solubility_v1)
+- 🔭 I’m currently working on [data_structures_and_algorithms-python](https://github.com/MusaddiqueHussainLabs/data_structures_and_algorithms_python)
 
 - 🌱 I’m currently learning **Data Science**
 
