@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musaddiquehussainlabs&label=Profile%20views&color=0e75b6&style=flat" alt="musaddiquehussainlabs" /> </p>
 
-- 🔭 I’m currently working on [musaddiquehussainlabs](https://github.com/MusaddiqueHussainLabs/musaddiquehussainlabs_package.git)
+- 🔭 I’m currently working on [ml_regression_taxi_fare_prediction](https://github.com/MusaddiqueHussainLabs/ml_regression_taxi_fare_prediction.git)
 
 - 🌱 I’m currently learning **Data Science**
 
