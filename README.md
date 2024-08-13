@@ -1,4 +1,4 @@
-![logo](https://github.com/MusaddiqueHussainLabs/MusaddiqueHussainLabs/blob/main/myProfile%20Banner.png)
+![logo](https://github.com/MusaddiqueHussainLabs/MusaddiqueHussainLabs/blob/main/myProfile%20Banner%20v1.png)
 <h1 align="center">Hi 👋, I'm MusaddiqueHussain Jahagirdar</h1>
 <h3 align="center">Building a Foundation in Data Science: Exploring the Role of a Junior Data Scientist</h3>
 
